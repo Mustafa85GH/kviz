@@ -1,0 +1,19 @@
+*body{
+margin: 0;
+padding: 0;
+}
+
+.pozadina{
+    background-color: aqua;
+}
+.nav-brand{
+margin-right: 420px;
+text-decoration: none;
+color: darkcyan;
+font-style: oblique;
+font-size: x-large;
+}
+.logo{
+position: fixed;
+bottom: 3;
+}
